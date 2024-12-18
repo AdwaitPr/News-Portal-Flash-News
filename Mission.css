@@ -1,0 +1,22 @@
+.mission-section {
+  padding: 5rem 2rem;
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.mission-title {
+  color: #4A5568;
+  font-size: 1rem;
+  letter-spacing: 2px;
+  margin-bottom: 2rem;
+}
+
+.mission-text {
+  font-size: 2.5rem;
+  font-style: italic;
+  color: #2D3748;
+  line-height: 1.4;
+  max-width: 900px;
+  margin: 0 auto;
+} 
